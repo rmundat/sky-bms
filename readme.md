@@ -1,4 +1,4 @@
-# Assignment:  Design a Battery Management System
+# Design a Similified Battery Management System
 
 - Cell data refrence: Samsung 21700 50G Cylindrical Battery Introduction (provided in `docs` directory)
 
